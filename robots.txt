@@ -3,8 +3,6 @@ Disallow: /admin/
 Disallow: /login/
 Disallow: /private/
 
-# Дозволяємо індексувати всі сторінки, крім вказаних вище
 Allow: /
 
-# Вказуємо розташування сайдмапу
 Sitemap: https://yourwebsite.com/sitemap.xml
